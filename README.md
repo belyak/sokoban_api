@@ -10,23 +10,26 @@ To install The Real Life, follow these steps:
 
 1. Clone the repository and navigate to the project directory:
 
+```
 git clone https://github.com/user/the-real-life.git
-
 cd the-real-life
+```
 
 Copy code
 
 2. Install the required dependencies using pip:
 
+```
 pip install -r requirements.txt
+```
 
 Copy code
 
 3. Run the development server:
 
+```
 python manage.py runserver
-
-Copy code
+```
 
 4. Navigate to http://127.0.0.1:8000/ in your web browser to play the game.
 

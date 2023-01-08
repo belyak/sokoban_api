@@ -1,5 +1,5 @@
 # sokoban_api
- [Logo](logo.svg)
+ <img src="logo.svg"/>
 # The Real Life
 
 The Real Life is a Sokoban-style puzzle game where the player must push boxes to their designated locations using a character controlled by the player.

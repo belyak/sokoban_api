@@ -11,6 +11,7 @@ To install The Real Life, follow these steps:
 1. Clone the repository and navigate to the project directory:
 
 git clone https://github.com/user/the-real-life.git
+
 cd the-real-life
 
 Copy code
